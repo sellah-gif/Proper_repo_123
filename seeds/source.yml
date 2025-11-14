@@ -1,0 +1,7 @@
+seeds:
+  - name: table123
+    config:
+      column_types:
+        ID: VARCHAR
+        PIN: VARCHAR
+      
