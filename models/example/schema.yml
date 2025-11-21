@@ -26,3 +26,16 @@ sources:
     schema: RAW_SCHEMA
     tables:
       - name: EMP_123
+
+  - name: MAC_1
+    database: MY_DB_LAB
+    schema: STAGING_LAB
+    tables:
+      - name: NUM_123
+  - name: MAC_2
+    database: MY_DB_LAB
+    schema: STAGING_LAB
+    tables:
+      - name: ADDRESS
+      - name: MY_SALES
+   

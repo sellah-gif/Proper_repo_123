@@ -1,0 +1,7 @@
+sources:
+  - name: new_123
+    database: MY_DB_LAB
+    schema: STAGING_LAB
+    tables:
+      - name: ABCD
+      
